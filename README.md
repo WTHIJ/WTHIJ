@@ -1,6 +1,6 @@
-### <p align="center">Hi there 👋, I'm <a href="http://pierre-thiebaud.fr/">Pierre</a><p/>
+### <p align="center">Hi there 👋, I'm <a href="http://pierre-thiebaud.fr/">Pierre</a><p><p/>, UI an design enjoyer<p/>
 <hr/>
-<p align="center"><a href="https://www.linkedin.com/in/pierrethiebaud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/;link=https://www.linkedin.com/in/pierrethiebaud/">        <a href="http://pierre-thiebaud.fr/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"><p/>
+<a href="https://www.linkedin.com/in/pierrethiebaud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/;link=https://www.linkedin.com/in/pierrethiebaud/">        <a href="http://pierre-thiebaud.fr/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
  
 <hr/> 
  
