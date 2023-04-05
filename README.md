@@ -24,5 +24,6 @@
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-000?style=000&logo=Adobe%20Photoshop&logoColor=white)
   
 ### Stats
-[![WTHIJ Stats](https://github-readme-stats.vercel.app/api?username=WTHIJ?count_private=true)](https://github.com/WTHIJ/github-readme-stats)
+[![WTHIJ Stats](https://github-readme-stats.vercel.app/api?username=WTHIJ&show_icons=true&theme=great-gatsby)](https://github.com/WTHIJ/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTHIJ&layout=compact&count_private=true&theme=great-gatsby" />
 
