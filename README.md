@@ -1,6 +1,6 @@
 ### <p align="center">Hi there 👋, I'm <a href="http://pierre-thiebaud.fr/">Pierre</a><p/>
 <hr/>
-<p align="center"><a href="https://www.linkedin.com/in/pierrethiebaud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/;link=https://www.linkedin.com/in/pierrethiebaud/"><a href="http://pierre-thiebaud.fr/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"><p/>
+<p align="center"><a href="https://www.linkedin.com/in/pierrethiebaud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/;link=https://www.linkedin.com/in/pierrethiebaud/">        <a href="http://pierre-thiebaud.fr/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"><p/>
  
 <hr/> 
  
@@ -32,7 +32,4 @@
 <hr/> 
  
 ### **Stats**
-<center>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=WTHIJ&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTHIJ&hide_title=true&hide_border=true&layout=compact&&include_all_commits=true&count_private=true&langs_count=6&theme=great-gatsby"/>
-<center/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=WTHIJ&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby"/>      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTHIJ&hide_title=true&hide_border=true&layout=compact&&include_all_commits=true&count_private=true&langs_count=6&theme=great-gatsby"/>
