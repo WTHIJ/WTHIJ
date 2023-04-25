@@ -26,7 +26,7 @@
 ### **Tools**
 ![VSCODE](https://img.shields.io/badge/Visual_Studio-000?style=000&logo=visual%20studio&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-000?style=000&logo=figma&logoColor=white)
-![NOTION](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)
+![NOTION](https://img.shields.io/badge/Notion-000?style=000&logo=notion&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-000?style=000&logo=Adobe%20Photoshop&logoColor=white)
 
 <hr/> 
