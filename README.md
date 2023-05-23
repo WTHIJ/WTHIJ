@@ -2,6 +2,7 @@
 <hr/>
 <a href="https://www.linkedin.com/in/pierrethiebaud/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/;link=https://www.linkedin.com/in/pierrethiebaud/">        <a href="https://pierre-thiebaud.fr"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 <hr/> 
+
 ### **Languages**
 ![HTML](https://img.shields.io/badge/HTML5-000?style=000&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-000?style=000&logo=css3&logoColor=white)
