@@ -1,5 +1,10 @@
 ### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, web designer<p/> 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/WTHIJ/count.svg?"  />
+</div>
+
+###
 <hr/>
  
 ### **Languages**
