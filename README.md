@@ -19,7 +19,7 @@
 ![PHP](https://img.shields.io/badge/PHP-000?style=000&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white)
-![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/shell-000&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FFF)
  
