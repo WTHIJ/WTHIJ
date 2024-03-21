@@ -1,10 +1,8 @@
-| ### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, developper<p/> |<div align="center"><img src="https://profile-counter.glitch.me/WTHIJ/count.svg?"  />
-</div>|
-|||
+### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, developper<p/> 
 
 <br/>
-
-
+<div align="center"><img src="https://profile-counter.glitch.me/WTHIJ/count.svg?"  /></div>
+<br/>
 
 ###
 <hr/>
