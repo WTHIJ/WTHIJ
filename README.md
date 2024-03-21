@@ -1,4 +1,4 @@
-### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, web designer<p/> 
+### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, developper<p/> 
 
 <br/>
 <div align="center">
