@@ -1,4 +1,4 @@
-### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, developper<p/>    
+### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, cybersecurity student<p/>    
 
 <br/>
 <div align="center"><img src="https://profile-counter.glitch.me/WTHIJ/count.svg?"  /></div>
