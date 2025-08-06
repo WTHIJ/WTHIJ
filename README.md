@@ -16,17 +16,4 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=FFF)
  
 <hr/>
- 
-### **What I use while coding**
-![VSCODE](https://img.shields.io/badge/Visual_Studio-000?style=000&logo=visual%20studio&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-000?style=000&logo=figma&logoColor=white)
-![NOTION](https://img.shields.io/badge/Notion-000?style=000&logo=notion&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-000?style=000&logo=Adobe%20Photoshop&logoColor=white)
-
-<hr/> 
- 
-
-### **Stats**
-|<img src="https://github-readme-stats.vercel.app/api?username=WTHIJ&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby"/>| <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTHIJ&hide_border=true&hide_title=true&layout=compact&&include_all_commits=true&count_private=true&langs_count=6&theme=great-gatsby"/>|
-|----------|----------|
 
