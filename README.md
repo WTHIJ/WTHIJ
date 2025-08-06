@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Pierre
+## 👋 Hello, I’m Pierre Thiébaud
 
 ### 🛡️ Cybersecurity Engineering Student
 
