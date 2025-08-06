@@ -13,7 +13,6 @@
 
 ### 🌱 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/pierrethiebaud/)
 Want to discuss projects or just say hi? Check out my repos or reach out!
 
 ---
