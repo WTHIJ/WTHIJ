@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Stack
 
-- **Programming:** C, C++, PHP, JavaScript, Python, Bash
+- **Programming:** C, C++, PHP, JS, TS, Python, Bash
 - **Web:** Frontend & Backend development, Web security
 - **Database:** Relational & NoSQL databases
 - **Environments:** Unix/Linux, Git, Automation/Scripting
