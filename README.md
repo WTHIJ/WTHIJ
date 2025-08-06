@@ -1,4 +1,4 @@
-### <p align="center">Hi there 👋, I'm <a href="https://pierre-thiebaud.fr">Pierre</a>, cybersecurity student<p/>    
+### <p align="center">Hi there 👋 I'm <a href="https://pierrethiebaud.ch">Pierre</a>, Cybersecurity Engineering student<p/>    
 
 ###
 <hr/>
