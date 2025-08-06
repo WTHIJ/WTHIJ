@@ -14,7 +14,3 @@
 ### 🌱 Let's Connect
 
 Want to discuss projects or just say hi? Check out my repos or reach out!
-
----
-
-![Pierre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WTHIJ&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=stars&theme=default)
