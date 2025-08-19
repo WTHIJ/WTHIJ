@@ -15,5 +15,6 @@
 
 Want to discuss projects or just say hi? Check out my repos or reach out!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5473393" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/WTHIJ.png" alt="Your Image Badge" />
+
 
