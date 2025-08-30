@@ -15,6 +15,4 @@
 
 Want to discuss projects or just say hi? Check out my repos or reach out!
 
-<div style="width: 100%; align-item: center; justify-content: center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/WTHIJ.png" alt="Your Image Badge" />
-</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/WTHIJ.png" alt="Your Image Badge" />
