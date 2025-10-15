@@ -16,5 +16,5 @@
 Want to discuss projects or just say hi? Check out my repos or reach out!
 
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/WTHIJ.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaw.com/WTHIJ.png" alt="Your Image Badge" />
 </p>
