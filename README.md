@@ -1,16 +1,16 @@
-## 👋 Hello, I’m Pierre Thiébaud
+# Pierre Thiébaud
 
-### 🛡️ Cybersecurity Engineering Student
+## Cybersecurity Engineering Student  
+HEIG-VD — Switzerland 🇨🇭
 
-> Currently studying at HEIG-VD 🇨🇭, passionate about IT security, programming, and networks.
+## Profile
 
-### 🛠 Tech Stack
+Undergraduate student in Cybersecurity Engineering with a focus on applied security research, secure systems design, and software robustness.  
 
-- **Programming:** C, C++, PHP, JS, TS, Java, Python, Bash
-- **Web:** Frontend & Backend development, Web security
-- **Database:** Relational & NoSQL databases
-- **Environments:** Unix/Linux, Git, Automation/Scripting
+My work emphasizes rigorous analysis of systems, careful threat modeling, and security as a primary architectural constraint.
 
-### 🌱 Let's Connect
+Current academic focus includes applied cryptography, protocol analysis, and the design of secure, testable, and well-documented software architectures.
 
-Want to discuss projects or just say hi? Check out my repos or reach out!
+## Contact
+
+Feel free to explore my repositories or get in touch.
